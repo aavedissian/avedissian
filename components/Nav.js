@@ -7,20 +7,24 @@ export default function Nav() {
     const isPrinciples = router.pathname === "/principles";
     const isBooks = router.pathname === "/books";
     const isArmenia = router.pathname === "/armenia";
+    const isStartups = router.pathname === "/startups";
     return (
       <header>
           <ul>
             <li>
-                <Link className={isAbout && 'font-semibold'} href="/">About</Link>
+                <Link className={isAbout ? 'font-semibold' : ""} href="/">About</Link>
             </li>
             <li>
-                <Link className={isBooks && 'font-semibold'} href="/books">Books</Link>
+                <Link className={isBooks ? 'font-semibold' : ""} href="/books">Books</Link>
             </li>
             <li>
-                <Link className={isPrinciples && 'font-semibold'} href="/principles">Principles</Link>
+                <Link className={isPrinciples ? 'font-semibold' : ""} href="/principles">Principles</Link>
             </li>   
             <li>
-                <Link className={isArmenia && 'font-semibold'} href="/armenia">Armenia</Link>
+                <Link className={isStartups ? 'font-semibold' : ""} href="/startups">Startups</Link>
+            </li>  
+            <li>
+                <Link className={isArmenia ? 'font-semibold' : ""} href="/armenia">Armenia</Link>
             </li>
           </ul>
       </header>

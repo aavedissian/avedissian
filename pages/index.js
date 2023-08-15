@@ -1,12 +1,11 @@
 import Layout from '@/components/Layout'
 import Image from 'next/image'
 
-
 export default function Home() {
   return (
     <Layout>
         <div className='flex flex-col gap-4'>
-          <h2 className='font-bold text-2xl'>About</h2>
+          <h2 className='font-bold text-4xl'>About</h2>
           <Image src='/aa.jpg' width={150} height={150} alt='author' className='rounded-full' />
           <p>My name is Anthony Avedissian. I live in Los Angeles and invest in technology startups at <a target='_blank' href="https://seedclub.ventures/">Seed Club Ventures</a>.</p>
           <p>I started my career at <a target='_blank' href="https://www.ambercapital.com/">Amber Capital</a>, an activist hedge fund, and later worked in investment banking at <a target='_blank' href="https://www.sc.com/en/">Standard Chartered</a>.</p>
