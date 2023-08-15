@@ -2,26 +2,58 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: "Times New Roman", Times, serif  !important;
+  line-height: 1.5;
+  font-size: 1rem;
+  color: #16171a;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 60rem;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+header, section {
+  padding: 1rem;
+}
+
+header {
+  flex-basis: 10rem;
+  flex-grow: 1;
+  position: relative;
+}
+
+header ul {
+  border-right: 1px solid #edf2f7;
+  list-style: none;
+}
+
+header li {
+  margin-bottom: 0.2rem;
+  text-align: right;
+  margin-right: 2rem;
+}
+
+a {
+  color: #000;
+  text-decoration-skip-ink: auto;
+  text-decoration: underline;
+}
+
+header a {
+  text-decoration: none;
+  color: #000;
+  text-decoration-skip-ink: auto;
+}
+
+section {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-width: 70%;
+  display: flex;
+  flex-direction: column;
 }
