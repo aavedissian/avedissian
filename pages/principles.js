@@ -8,8 +8,6 @@ export default function Books() {
           <p>Some principles I regularly come back to.</p>
           <ul class="list-disc list-inside"> 
           <li><span className="font-bold">Transcend Paradigms.</span> Mental models are <a className='text-blue-600' target="_blank" href="https://fs.blog/map-and-territory/">useful abstractions</a>, but are not the same as reality. Remain intellectually unattached and flexible.</li>
-          
-
 
           <li><span className="font-bold">Take Action.</span> In the <a className='text-blue-600' target="_blank" href="https://en.wikipedia.org/wiki/Buridan%27s_ass">Buridan’s Ass</a>, the donkey dies because it is unable to decide. Do not be the donkey. Take action, even when no option is preferable.</li>
           
