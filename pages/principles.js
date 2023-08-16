@@ -7,7 +7,7 @@ export default function Books() {
           <h2 className='font-bold text-4xl'>Principles</h2>
           <p>Principles I regularly come back to.</p>
           <ul class="list-disc list-inside"> 
-          <li> Transcend Paradigms. Mental models are useful abstractions of reality, but it is important to remain intellectually unattached and flexible. Every model, including the one that shapes your worldview, is a tremendously limited understanding of an immense and amazing universe.</li>
+          <li> Transcend Paradigms. Mental models are useful abstractions, but they are not the same as reality. Remain intellectually unattached and flexible – our universe is immense, amazing, and far beyond human comprehension.</li>
           
           <li>Take Action. In the <a className='text-blue-600' target="_blank" href="https://en.wikipedia.org/wiki/Buridan%27s_ass">Buridan’s Ass</a>, the donkey dies because it is unable to decide. Do not be the donkey. Take action, even when no option is preferable.</li>
           
