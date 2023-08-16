@@ -7,11 +7,11 @@ export default function Books() {
           <h2 className='font-bold text-4xl'>Principles</h2>
           <p>Some principles I regularly come back to.</p>
           <ul class="list-disc list-inside"> 
-          <li><span className="font-bold">Transcend Paradigms.</span> Mental models are <a className='text-blue-600' target="_blank" href="https://fs.blog/map-and-territory/">useful abstractions</a>, but not the same as reality. Remain intellectually unattached and flexible.</li>
+          <li><span className="font-bold">Transcend Paradigms.</span> Mental models are <a className='text-blue-600' target="_blank" href="https://fs.blog/map-and-territory/">useful abstractions</a>, but not the same as reality. Remain flexible and intellectually unattached.</li>
 
           <li><span className="font-bold">Take Action.</span> In the <a className='text-blue-600' target="_blank" href="https://en.wikipedia.org/wiki/Buridan%27s_ass">Buridan’s Ass</a>, the donkey dies because it is unable to decide. Do not be the donkey. Take action, even when no option is preferable.</li>
           
-          <li><span className="font-bold">Compound.</span> The greatest returns in life come from <a className='text-blue-600' href="https://anthonyavedissian.substack.com/p/on-compounding">compound interest</a>.Keep consistent and play the long game, especially for relationships.</li>
+          <li><span className="font-bold">Compound.</span> The greatest returns in life come from <a className='text-blue-600' href="https://anthonyavedissian.substack.com/p/on-compounding">compounding</a>. Keep consistent and play the long game, especially for relationships.</li>
           
           <li><span className="font-bold">Prioritize.</span> Decide on your most important priority for this: decade, year, quarter, and month. Systematically allocate time to meet those priorities.</li>
                     
