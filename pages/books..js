@@ -47,7 +47,7 @@ export default function Books() {
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/18529000-the-mom-test">Mom Test</a> by Rob Fitzpatrick</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/18050143-zero-to-one">Zero to One</a> by Peter Thiel</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/55338968-the-cold-start-problem">Cold Start Problem</a> by Andrew Chen</li>
-          <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/38212134-how-the-internet-happened">How the Internet Happened</a> by Brian Cullough</li>
+          <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/38212134-how-the-internet-happened">How the Internet Happened</a> by Brian MC</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/11865558-venture-deals">Venture Deals</a> by Brad Feld</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma">{`Innovator's`} Dilemma</a> by Clayton Christensen</li>
           </ul>

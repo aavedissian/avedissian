@@ -7,7 +7,7 @@ export default function Books() {
           <h2 className='font-bold text-4xl'>Principles</h2>
           <p>Some principles I regularly come back to.</p>
           <ul class="list-disc list-inside"> 
-          <li><span className="font-bold">Transcend Paradigms.</span> Mental models are <a className='text-blue-600' target="_blank" href="https://fs.blog/map-and-territory/">useful abstractions</a>, but are not the same as reality. Remain intellectually unattached and flexible.</li>
+          <li><span className="font-bold">Transcend Paradigms.</span> Mental models are <a className='text-blue-600' target="_blank" href="https://fs.blog/map-and-territory/">useful abstractions</a>, but not the same as reality. Remain intellectually unattached and flexible.</li>
 
           <li><span className="font-bold">Take Action.</span> In the <a className='text-blue-600' target="_blank" href="https://en.wikipedia.org/wiki/Buridan%27s_ass">Buridan’s Ass</a>, the donkey dies because it is unable to decide. Do not be the donkey. Take action, even when no option is preferable.</li>
           
@@ -19,7 +19,7 @@ export default function Books() {
                               
           <li><span className="font-bold">Live holistically.</span> Work-life balance is a <a className='text-blue-600' target="_blank" href="https://blog.nateliason.com/p/work-life-balance">false dichotomy</a>. Integrate work as one part of a holistic life, where each area supports and complements others.</li>
           
-          <li><span className="font-bold">Radical honesty.</span> Honesty, not only with others but also oneself, leads to deeper relationships, clear decision-making, and a more authentic life.</li>
+          <li><span className="font-bold">Radical honesty.</span> Honesty, with others and oneself, leads to deeper relationships, clear decision-making, and a more authentic life.</li>
                               
           <li><span className="font-bold">Look forward.</span> Make decisions based on <a className='text-blue-600' target="_blank" href="https://en.wikipedia.org/wiki/Sunk_cost">future value</a>, not unrecoverable past investments.</li>
 
