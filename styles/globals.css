@@ -79,14 +79,14 @@ section {
 
 a.text-blue-600 {
   color: #3182ce; /* Original blue color from tailwind */
-  transition: color 0.2s;
+  transition: color 1s; /* Extended the transition duration */
 }
 
 a.text-blue-600:visited {
   color: #551a8b;
 }
 
-a.text-blue-600:active {
+a.text-blue-600:active, a.text-blue-600.clicked {
   color: #551a8b;
   transition: none;
 }
