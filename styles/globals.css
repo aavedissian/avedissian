@@ -79,7 +79,7 @@ section {
 
 a.text-blue-600 {
   color: #3182ce; 
-  transition: color 1s; 
+  transition: color 2s; 
 }
 
 a.text-blue-600:visited {
@@ -88,5 +88,5 @@ a.text-blue-600:visited {
 
 a.text-blue-600:active, a.text-blue-600.clicked {
   color: #551a8b;
-  transition: none;
+  transition: color 0.5s;
 }
