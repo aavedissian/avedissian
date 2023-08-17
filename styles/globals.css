@@ -32,7 +32,7 @@ header ul {
     flex-direction: row;
     list-style: none;
     border-bottom: 1px solid #edf2f7; /* Horizontal divider */
-    padding: 0; /* Ensure no additional padding affects the width */
+    padding: 0 0 0.5rem 0; /* Added 0.5rem padding to the bottom */
 }
 
 header li {
