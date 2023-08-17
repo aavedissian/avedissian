@@ -1,9 +1,14 @@
+import Head from 'next/head'; // Import the Head component
 import Layout from '@/components/Layout'
 import Image from 'next/image'
 
 export default function Home() {
   return (
     <Layout>
+      {/* Add the Head component here to set the title for this page */}
+      <Head>
+        <title>Anthony Avedissian</title>
+      </Head>
         <div className='flex flex-col gap-4'>
           <h2 className='font-bold text-4xl'>About</h2>
           <Image src='/aa.jpg' width={150} height={150} alt='author' className='rounded-full' />
