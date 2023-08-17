@@ -79,14 +79,10 @@ section {
 
 a.text-blue-600 {
   color: #3182ce; 
-  transition: color 1s; 
+  transition: color 1s; /* Adjust this duration to control the speed of the transition back to blue */
 }
 
-a.text-blue-600:visited {
-  color: #551a8b;
-}
-
-a.text-blue-600:active, a.text-blue-600.clicked {
-  color: #551a8b;
-  transition: none;
+a.text-blue-600:active {
+  color: #551a8b; /* Turns to purple instantly when clicked */
+  transition: none; /* Override the transition here so the color change when clicked is instant */
 }
