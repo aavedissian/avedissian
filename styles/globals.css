@@ -77,14 +77,16 @@ section {
     }
 }
 
-a.text-blue-600:visited {
-  color: #551a8b !important;
-}
-
 a.text-blue-600 {
+  color: #3182ce; /* Original blue color from tailwind */
   transition: color 0.2s;
 }
 
+a.text-blue-600:visited {
+  color: #551a8b;
+}
+
 a.text-blue-600:active {
-  color: #551a8b !important;
+  color: #551a8b;
+  transition: none;
 }
