@@ -32,6 +32,8 @@ header ul {
     flex-direction: row;
     list-style: none;
     border-bottom: 1px solid #edf2f7; /* Horizontal divider */
+    padding: 0 0 1.5rem 0; /* Added 1.5rem padding to the bottom */
+
 }
 
 header li {
