@@ -25,12 +25,12 @@ header {
     flex-basis: 10rem;
     flex-grow: 1;
     position: relative;
+    border-bottom: 1px solid #edf2f7; /* Divider line */
 }
 
 header ul {
     display: flex;
     flex-direction: row;
-    border-right: none;
     list-style: none;
 }
 
