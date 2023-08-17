@@ -77,7 +77,14 @@ section {
     }
 }
 
-/* Style for visited link */
 a.text-blue-600:visited {
+  color: #551a8b !important;
+}
+
+a.text-blue-600 {
+  transition: color 0.2s;
+}
+
+a.text-blue-600:active {
   color: #551a8b !important;
 }
