@@ -1,16 +1,22 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const links = document.querySelectorAll('a.text-blue-600');
+// linkEffect.js
+
+document.addEventListener("DOMContentLoaded", () => {
+    const links = document.querySelectorAll(".text-blue-600");
   
     links.forEach(link => {
-      link.addEventListener('click', function(event) {
-        event.preventDefault(); // prevent immediate navigation
+      link.addEventListener("click", (event) => {
+        event.preventDefault(); // prevent the default behavior of links
   
-        link.classList.add('clicked'); // add class to trigger color change
+        link.style.color = '#551a8b'; // set color to the 'visited' purple color
   
-        // After transition (1s), navigate to the link
         setTimeout(() => {
-          window.location = link.href;
-        }, 1000);
+          link.style.color = ''; // revert the color to original
+  
+          setTimeout(() => {
+            window.location.href = link.href; // redirect to the desired URL
+          }, 500); // 0.5 seconds delay before redirection
+  
+        }, 500); // 0.5 seconds delay to hold the 'visited' color
       });
     });
   });
