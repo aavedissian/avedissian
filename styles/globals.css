@@ -85,3 +85,8 @@ a.text-blue-600 {
 a.text-blue-600:visited {
   color: #551a8b;
 }
+
+a.text-blue-600:active, a.text-blue-600.clicked {
+  color: #551a8b;
+  transition: none;
+}
