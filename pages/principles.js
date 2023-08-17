@@ -1,8 +1,13 @@
+import Head from 'next/head'; // Import the Head component
 import Layout from '@/components/Layout'
 
 export default function Books() {
   return (
     <Layout>
+      {/* Add the Head component here to set the title for this page */}
+      <Head>
+        <title>Principles - Anthony Avedissian</title>
+      </Head>
         <div className='flex flex-col gap-4'>
           <h2 className='font-bold text-4xl'>Principles</h2>
           <p>Some principles I regularly come back to.</p>

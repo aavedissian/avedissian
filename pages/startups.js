@@ -1,8 +1,13 @@
+import Head from 'next/head'; // Import the Head component
 import Layout from '@/components/Layout'
 
 export default function Startups() {
   return (
     <Layout>
+      {/* Add the Head component here to set the title for this page */}
+      <Head>
+        <title>Startups - Anthony Avedissian</title>
+      </Head>
         <div className='flex flex-col gap-4'>
           <h2 className='font-bold text-4xl'>Startups</h2>
     
