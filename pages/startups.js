@@ -17,7 +17,7 @@ export default function Startups() {
     
           <p>If you are seeking investment, product feedback, or strategic advice, please message me on <a className='text-blue-600' target="_blank" href="https://twitter.com/antavedissian">Twitter</a> or email <a className='text-blue-600' href="mailto:anthony@seedclub.ventures">anthony@seedclub.ventures</a>.</p>
     
-          <p>To streamline the process, feel free to include a Google Doc answering:</p>
+          <p>To streamline the process, feel free to include a commentable Google Doc answering:</p>
     
           <ul class="list-disc list-inside"> 
     
