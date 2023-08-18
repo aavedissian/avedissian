@@ -21,19 +21,24 @@ export default function Startups() {
     
           <ul class="list-disc list-inside"> 
     
-          <li>What is the mission of your company?</li>
+          <li>What is the purpose of your company?</li>
     
           <li>What problem is your company solving?</li>
     
           <li>What is your solution to the problem?</li>
-    
-          <li>Why build the company now?</li>
+
+          <li>Why are you building this company now?</li>
+
+          <li>Who is your initial customer?</li>
+
+          <li>How do you plan to reach your target customer?</li>
     
           <li>How do you plan to make money?</li>
-    
-          <li>Who is on the team?</li>
-    
+
           <li>What progress have you made?</li>
+
+          <li>Who is on your team?</li>
+    
           </ul>
         </div>
     </Layout>
