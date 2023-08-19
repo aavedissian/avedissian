@@ -31,7 +31,7 @@ export default function Startups() {
 
           <li>Who is your initial customer?</li>
 
-          <li>How do you plan to reach your target customer?</li>
+          <li>How do you plan to reach your customers?</li>
     
           <li>How do you plan to make money?</li>
 
