@@ -12,7 +12,7 @@ export default function Home() {
         <div className='flex flex-col gap-4'>
           <h2 className='font-bold text-4xl'>About</h2>
           <Image src='/aa.jpg' width={150} height={150} alt='author' className='rounded-full' />
-          <p>My name is Anthony Avedissian. I invest in technology startups at <a className='text-blue-600' target='_blank' href="https://seedclub.ventures/">Seed Club Ventures and co-design fine jewelry with my wife at Lara Valentina.</a>.</p>
+          <p>My name is Anthony Avedissian. I invest in technology startups at <a className='text-blue-600' target='_blank' href="https://seedclub.ventures/">Seed Club Ventures</a> and co-design fine jewelry with my wife at Lara Valentina.</p>
      
           <p>I started my career at <a className='text-blue-600' target='_blank' href="https://www.ambercapital.com/">Amber Capital</a>, an activist hedge fund, and later worked in investment banking at <a className='text-blue-600' target='_blank' href="https://www.sc.com/en/">Standard Chartered</a>.</p>
      
