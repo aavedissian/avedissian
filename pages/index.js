@@ -18,7 +18,7 @@ export default function Home() {
      
           <p>I grew up in London, regularly traveling to Istanbul and Yerevan. I have lived in 10+ cities, including Miami, Lisbon, Shanghai, Phuket, and Barcelona.</p>
           
-          <p>I live in Los Angeles and enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, running, swimming, skiing, hiking, and Muay Thai.</p>
+          <p>Currently based in Los Angeles with my wife, I enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, running, swimming, skiing, hiking, and Muay Thai.</p>
 
           <p>You can reach me on <a className='text-blue-600' target='_blank' href="https://twitter.com/antavedissian">Twitter</a> and find my writing on <a className='text-blue-600' target='_blank' href="https://anthonyavedissian.substack.com/">Substack</a>.</p>
         </div>
