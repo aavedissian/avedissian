@@ -15,7 +15,7 @@ export default function Startups() {
     
           <p>I help startups with business development, product strategy, and introductions to customers and investors.</p>
     
-          <p>If you are seeking investment, product feedback, or strategic advice, please message me on <a className='text-blue-600' target="_blank" href="https://twitter.com/antavedissian">Twitter</a> or email <a className='text-blue-600' href="mailto:anthony@seedclub.ventures">anthony@seedclub.ventures</a>.</p>
+          <p>If you are seeking investment, product feedback, or strategic advice, please contact me on <a className='text-blue-600' target="_blank" href="https://twitter.com/antavedissian">Twitter</a> or <a className='text-blue-600' href="mailto:anthony@seedclub.ventures">email</a>.</p>
     
           <p>To streamline the process, feel free to include a commentable Google Doc outlining:</p>
     
