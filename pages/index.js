@@ -20,7 +20,7 @@ export default function Home() {
           
           <p>Currently based in Los Angeles, I enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, running, swimming, skiing, hiking, and Muay Thai.</p>
 
-          <p>You can reach me on <a className='text-blue-600' target='_blank' href="https://twitter.com/antavedissian">Twitter</a> and find my writing on <a className='text-blue-600' target='_blank' href="https://anthonyavedissian.substack.com/">Substack</a>.</p>
+          <p>You can reach me on <a className='text-blue-600' target='_blank' href="https://warpcast.com/antavedissian">Warpcast</a> and <a className='text-blue-600' target='_blank' href="https://twitter.com/antavedissian">Twitter</a> and find my writing on <a className='text-blue-600' target='_blank' href="https://anthonyavedissian.substack.com/">Substack</a>.</p>
         </div>
     </Layout>
   )
