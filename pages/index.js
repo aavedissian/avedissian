@@ -16,7 +16,7 @@ export default function Home() {
      
           <p>I started my career at <a className='text-blue-600' target='_blank' href="https://www.ambercapital.com/">Amber Capital</a>, an activist hedge fund, and later worked in investment banking at <a className='text-blue-600' target='_blank' href="https://www.sc.com/en/">Standard Chartered</a>.</p>
                
-          <p>I live in Los Angeles with my wife and I enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, running, swimming, skiing, hiking, and Muay Thai.</p> 
+          <p>I live in Los Angeles with my wife and enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, running, swimming, skiing, hiking, and Muay Thai.</p> 
           
           <p>I grew up in London and have lived in 10+ cities, including Miami, Lisbon, Yerevan, Shanghai, Istanbul, Phuket, and Barcelona.</p>
 
