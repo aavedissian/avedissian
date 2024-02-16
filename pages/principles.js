@@ -12,7 +12,7 @@ export default function Books() {
           <h2 className='font-bold text-4xl'>Principles</h2>
           <p>Some principles I regularly come back to.</p>
           <ul class="list-disc list-inside"> 
-          <li><span className="font-bold">Compound.</span> The greatest returns in life come from <a className='text-blue-600' href="https://anthonyavedissian.substack.com/p/on-compounding">compounding</a>. Keep consistent and play long-term games.</li>
+          <li><span className="font-bold">Compound.</span> The greatest returns in life come from <a className='text-blue-600' href="https://paragraph.xyz/@antavedissian/on-compounding">compounding</a>. Keep consistent and play long-term games.</li>
 
           <li><span className="font-bold">Prioritize.</span> Decide on your most important priority for this decade, year, and month. Systematically allocate time to meet those priorities.</li>
 
