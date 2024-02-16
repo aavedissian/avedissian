@@ -18,7 +18,7 @@ export default function Home() {
 
           <p>I grew up in London and have lived in Istanbul, Yerevan, Miami, Lisbon, Shanghai, Phuket, and Barcelona.</p>
 
-          <p>You can reach me on <a className='text-blue-600' target='_blank' href="https://twitter.com/antavedissian">Twitter</a> and find my writing on <a className='text-blue-600' target='_blank' href="https://anthonyavedissian.substack.com/">Substack</a>.</p>
+          <p>You can reach me on <a className='text-blue-600' target='_blank' href="https://twitter.com/antavedissian">Twitter</a> and find my writing on <a className='text-blue-600' target='_blank' href="https://paragraph.xyz/@antavedissian">Paragraph</a>.</p>
         </div>
     </Layout>
   )
