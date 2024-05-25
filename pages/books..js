@@ -28,6 +28,7 @@ export default function Books() {
           <h3 className='font-bold text-xl'>Non-fiction</h3>
           <ul class="list-disc list-inside"> 
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/23692271-sapiens">Sapiens</a> by Yuval Harari</li>
+          <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/82256.The_Sovereign_Individual">The Sovereign Individual</a> by James Davidson and William Rees-Mogg</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/40121378-atomic-habits">Atomic Habits</a> by James Clear</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/174713.The_Lessons_of_History">Lessons of History</a> by Will Durant</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/6716755-thinking-in-systems">Thinking in Systems</a> by Donella Meadows</li>
