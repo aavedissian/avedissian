@@ -12,9 +12,7 @@ export default function Home() {
         <div className='flex flex-col gap-4'>
           <h2 className='font-bold text-4xl'>About</h2>
           <Image src='/aa.jpg' width={150} height={150} alt='author' className='rounded-full' />
-          <p>{`Hi, I'm Anthony.`}</p>
-
-          <p>I invest in early-stage startups at <a className='text-blue-600' target='_blank' href="https://seedclub.ventures/">Seed Club</a> and, together with my wife, also design and craft <a className='text-blue-600' target='_blank' href="https://www.laravalentina.com/">fine jewelry</a>.</p>
+          <p>My name is Anthony Avedissian. I invest in early-stage startups at <a className='text-blue-600' target='_blank' href="https://seedclub.ventures/">Seed Club Ventures</a>. Together with my wife, Lara, I also design and craft <a className='text-blue-600' target='_blank' href="https://www.laravalentina.com/">fine jewelry</a>.</p>
      
           <p>I live in Los Angeles and enjoy reading, <a className='text-blue-600' target='_blank' href="https://www.instagram.com/antilosh.eats/">cooking</a>, swimming, skiing, golf, tennis, and Muay Thai.</p> 
 
