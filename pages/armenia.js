@@ -18,7 +18,7 @@ export default function Books() {
   
           <p>I am interested in investing in Armenian startups and supporting local initiatives in education, healthcare, and pharmaceuticals.</p>
   
-          <p>Please contact me on <a className='text-blue-600' target="_blank" href="https://twitter.com/antavedissian">Twitter</a> or <a className='text-blue-600' href="mailto:anthony@seedclub.ventures">email</a> to discuss further.</p>
+          <p>Please contact me on <a className='text-blue-600' target="_blank" href="https://twitter.com/antavedissian">Twitter</a> or <a className='text-blue-600' href="mailto:avedissian9@gmail.com">email</a> to discuss further.</p>
         </div>
     </Layout>
   )
