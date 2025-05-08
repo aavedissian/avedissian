@@ -35,6 +35,7 @@ export default function Books() {
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/33514.The_Elements_of_Style">Elements of Style</a> by William Strunk</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/17434641-why-nations-fail">Why Nations Fail</a> by Daron Acemoğlu</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step">Peace Is Every Step</a> by Thich Nhat Hanh</li>
+          <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/52199304-the-world-for-sale">The World for Sale</a> by Blas and Farchy</li>
           </ul>
 
           <h3 className='font-bold text-xl'>Fiction</h3>
