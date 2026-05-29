@@ -23,6 +23,7 @@ export default function Books() {
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/46223297-permanent-record">Permanent Record</a> by Edward Snowden</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/17364.Surely_You_re_Joking_Mr_Feynman_">Surely {`You're`} Joking</a> by Richard Feynman</li>
           <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/109705.Mr_China">Mr. China</a> by Tim Clissold</li>
+          <li><a className='text-blue-600' target="_blank" href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality">Mamba Mentality</a> by Kobe Bryant</li>
           </ul>
 
           <h3 className='font-bold text-xl'>Non-fiction</h3>
